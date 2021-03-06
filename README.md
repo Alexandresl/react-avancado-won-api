@@ -21,3 +21,9 @@
 * Comando para criar o usuário no PostgreSQL: `CREATE USER usuario WITH ENCRYPTED PASSWORD 'senha';`
 
 * Comando para criar o db já adicionando os privilégios do usuário criardo: `CREATE DATABASE db OWNER usuario;`
+
+### 94. Criando a primeira Collection Type - Categories
+
+[Figma do projeto](https://www.figma.com/file/xwqB4b2hX8yPmp66vRuHLz/Won-Games---Em-Andamento!!?node-id=139%3A0)
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/cbad1f92ab24a47ac930bc5cea2d8166a7de5a40)
