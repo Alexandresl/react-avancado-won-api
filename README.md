@@ -35,3 +35,7 @@
 ### 96. Criando Collection Type - Developers
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/5fca468ee134bc4b5000ac3fd20586800f7418de)
+
+### 97. Criando Collection Type - Pub lishers
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/5aa8f89e17aa7423fce798350969b2776ea06052)
