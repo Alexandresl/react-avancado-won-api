@@ -27,3 +27,7 @@
 [Figma do projeto](https://www.figma.com/file/xwqB4b2hX8yPmp66vRuHLz/Won-Games---Em-Andamento!!?node-id=139%3A0)
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/cbad1f92ab24a47ac930bc5cea2d8166a7de5a40)
+
+### 95. Criando Collection Type - Platforms
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/1d6378d009a85d41f677f080eb7c5c12f5ca4cc9)
