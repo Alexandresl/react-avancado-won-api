@@ -44,3 +44,6 @@
 
 [Códifo feito na aula](https://github.com/Won-Games/api/commit/bb27b8946a15f6916fb904d15acc3c39e26e79fd)
 
+### 99. Entendendo e criando Relations - One to Many, Many
+
+[Códifo feito na aula](https://github.com/Won-Games/api/commit/598cf5682a2011669b02a4a1dfa5e33cea361db6)
