@@ -31,3 +31,7 @@
 ### 95. Criando Collection Type - Platforms
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/1d6378d009a85d41f677f080eb7c5c12f5ca4cc9)
+
+### 96. Criando Collection Type - Developers
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/5fca468ee134bc4b5000ac3fd20586800f7418de)
