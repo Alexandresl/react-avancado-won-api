@@ -50,3 +50,14 @@
 
 ### 100. Configurando o plugin do GraphQL
 
+### 101. Configurando o editor para CKEditor
+
+[Plugin do CKEditor](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5)
+
+* Comando para instalar: ```yarn add strapi-plugin-ckeditor5```
+
+* Comando para fazer novo build clean: ```yarn build --clean```
+
+## Seção 10: Módulo 2: Customizando o Admin do Strapi para a Won Games
+
+### 102. Introdução a cusomização
