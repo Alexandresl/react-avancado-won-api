@@ -61,3 +61,9 @@
 ## Seção 10: Módulo 2: Customizando o Admin do Strapi para a Won Games
 
 ### 102. Introdução a cusomização
+
+### 103. Documentação do Strapi sobre Customização
+
+[Pacote do strapi-admin no Github](https://github.com/strapi/strapi/tree/master/packages/strapi-admin)
+
+[Documentação sobre customização](https://strapi.io/documentation/developer-docs/latest/development/admin-customization.html#admin-panel-customization)
