@@ -119,3 +119,10 @@
 [Site oficial do Buffet.js](https://buffetjs.io/)
 
 [Documentação do desenvolvimento de plugins locais](https://strapi.io/documentation/developer-docs/latest/development/local-plugins-customization.html#local-plugins)
+
+### 116. Gerando o esqueleto do plugin
+
+[Documentação do desenvolvimento de plugins locais](https://strapi.io/documentation/developer-docs/latest/development/local-plugins-customization.html#local-plugins)
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/f9d05544fa9556aae1b1d2886ee5a75b68f19875)
+
