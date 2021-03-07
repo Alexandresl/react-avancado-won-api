@@ -85,3 +85,6 @@
 ### 107. Mudando a logo do menu esquerdo
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/f0f6289af06722c39211d7455ff7c7c2adfdf990)
+
+### 108. Themes do Strapi e mudando o background color do LeftMenuHeader
+
