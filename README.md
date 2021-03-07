@@ -133,3 +133,13 @@
 [API do objeto plugins](https://strapi.io/documentation/developer-docs/latest/development/local-plugins-customization.html#api)
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/09a4c581e0936beb777bf8bfd818ae4ba504c27c)
+
+### 118. Criando a página e a lógica do plugin
+
+[Custom Header - Buffet](https://buffetjs.io/storybook/?path=/story/custom-header--simple)
+
+[Custom Table - Buffet](https://buffetjs.io/storybook/?path=/story/components-table--simple)
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/9fe782b91d07c35ba4358d1ada04e163e1b61c0d)
+
+[CORREÇÃO do código](https://github.com/Won-Games/api/pull/1/files)
