@@ -103,3 +103,8 @@
 ### 112. Customizando o hover dos links do menu
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/44f7bd0cce166e1463c8e9a22e0b14ffa138cc53)
+
+### 113. Customizando o MenuLeftFooter
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/32ce5033f96ed1d693935c6db47dd4b3b22c8cea)
+
