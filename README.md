@@ -91,3 +91,7 @@
 ### 109. Refatorando o styled component para uma forma mais organizada
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/eec778ec8bdcebeb2e1925e97d829c5175548eec)
+
+### 110. Customizando o background de todo o LeftMenu
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/a32c3b4f2ad248b2b42f70d61218cedc78b0d1c1)
