@@ -47,3 +47,6 @@
 ### 99. Entendendo e criando Relations - One to Many, Many
 
 [Códifo feito na aula](https://github.com/Won-Games/api/commit/598cf5682a2011669b02a4a1dfa5e33cea361db6)
+
+### 100. Configurando o plugin do GraphQL
+
