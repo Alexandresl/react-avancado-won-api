@@ -67,3 +67,8 @@
 [Pacote do strapi-admin no Github](https://github.com/strapi/strapi/tree/master/packages/strapi-admin)
 
 [Documentação sobre customização](https://strapi.io/documentation/developer-docs/latest/development/admin-customization.html#admin-panel-customization)
+
+### 104. Customizando a Logo da página de Login/Password/register
+
+[Códifo feito na aula (com imagens)](https://github.com/Won-Games/api/commit/451606bf62b6c76f614e5c241383b447cf434e7e)
+
