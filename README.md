@@ -108,3 +108,6 @@
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/32ce5033f96ed1d693935c6db47dd4b3b22c8cea)
 
+### 114. Customizando a Home Page
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/b27b00d25fa9f92a50ab7bf8df944f1d743c4708)
