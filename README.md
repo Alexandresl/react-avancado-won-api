@@ -95,3 +95,8 @@
 ### 110. Customizando o background de todo o LeftMenu
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/a32c3b4f2ad248b2b42f70d61218cedc78b0d1c1)
+
+### 111. Customizando o LeftMenuLinkSection e identificando elementos com React DevTools
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/ddc58f30ddf518c089c55f1eaa7948cacd61ed75)
+
