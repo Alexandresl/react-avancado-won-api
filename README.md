@@ -126,3 +126,10 @@
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/f9d05544fa9556aae1b1d2886ee5a75b68f19875)
 
+* Comando para criação do plugin: ```yarn strapi generate:plugin nome-do-plugin```
+
+### 117. Modificando ícone e nome no menu
+
+[API do objeto plugins](https://strapi.io/documentation/developer-docs/latest/development/local-plugins-customization.html#api)
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/09a4c581e0936beb777bf8bfd818ae4ba504c27c)
