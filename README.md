@@ -81,3 +81,7 @@
 [Documentação dos vídeos tutoriais](https://strapi.io/documentation/developer-docs/latest/development/admin-customization.html#tutorial-videos)
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/435de71d9a3360745f52e9f984a9cd4b3c21f277)
+
+### 107. Mudando a logo do menu esquerdo
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/f0f6289af06722c39211d7455ff7c7c2adfdf990)
