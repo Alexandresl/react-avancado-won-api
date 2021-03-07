@@ -111,3 +111,11 @@
 ### 114. Customizando a Home Page
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/b27b00d25fa9f92a50ab7bf8df944f1d743c4708)
+
+## Seção 11: Módulo 2: Criando e baixando plugins no Strapi
+
+### 115. Introdução ao plugin (repositories)
+
+[Site oficial do Buffet.js](https://buffetjs.io/)
+
+[Documentação do desenvolvimento de plugins locais](https://strapi.io/documentation/developer-docs/latest/development/local-plugins-customization.html#local-plugins)
