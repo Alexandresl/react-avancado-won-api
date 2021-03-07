@@ -88,3 +88,6 @@
 
 ### 108. Themes do Strapi e mudando o background color do LeftMenuHeader
 
+### 109. Refatorando o styled component para uma forma mais organizada
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/eec778ec8bdcebeb2e1925e97d829c5175548eec)
