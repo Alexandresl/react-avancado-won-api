@@ -76,3 +76,8 @@
 
 [Códifo feito na aula (com imagens)](https://github.com/Won-Games/api/commit/5bb787d3f34a0de114f9b7e2736483aa09e8da8f)
 
+### 106. Removendo ícone de tutoriais
+
+[Documentação dos vídeos tutoriais](https://strapi.io/documentation/developer-docs/latest/development/admin-customization.html#tutorial-videos)
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/435de71d9a3360745f52e9f984a9cd4b3c21f277)
