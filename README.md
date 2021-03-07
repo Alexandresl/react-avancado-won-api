@@ -100,3 +100,6 @@
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/ddc58f30ddf518c089c55f1eaa7948cacd61ed75)
 
+### 112. Customizando o hover dos links do menu
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/44f7bd0cce166e1463c8e9a22e0b14ffa138cc53)
