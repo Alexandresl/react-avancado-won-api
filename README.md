@@ -72,3 +72,7 @@
 
 [Códifo feito na aula (com imagens)](https://github.com/Won-Games/api/commit/451606bf62b6c76f614e5c241383b447cf434e7e)
 
+### 105. Editando o favicon
+
+[Códifo feito na aula (com imagens)](https://github.com/Won-Games/api/commit/5bb787d3f34a0de114f9b7e2736483aa09e8da8f)
+
