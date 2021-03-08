@@ -143,3 +143,9 @@
 [Código feito na aula](https://github.com/Won-Games/api/commit/9fe782b91d07c35ba4358d1ada04e163e1b61c0d)
 
 [CORREÇÃO do código](https://github.com/Won-Games/api/pull/1/files)
+
+### 119. Instalando plugin externo
+
+[Meu PR no projeto original](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/pull/3)
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/01d52ac27b2aa7aef94a9ff008bf87cce1375ad2)
