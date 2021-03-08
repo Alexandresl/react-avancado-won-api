@@ -165,3 +165,9 @@
 ### 122. Criando rota e controller para o populate
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/7870403b0e539c0bf279cb2ed730ec97488b2591)
+
+### 123. Entendendo o ctx (Contexto de response/request do Koa)
+
+[Documentação sobre ctx (request/response)](https://strapi.io/documentation/developer-docs/latest/development/backend-customization.html#requests-responses)
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/4587982c9864cf18d03c550b6a940354798a5b32)
