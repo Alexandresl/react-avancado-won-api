@@ -161,3 +161,7 @@
 [Documentação sobre controllers](https://strapi.io/documentation/developer-docs/latest/development/backend-customization.html#controllers)
 
 [Documentação sobre rotas](https://strapi.io/documentation/developer-docs/latest/development/backend-customization.html#routing)
+
+### 122. Criando rota e controller para o populate
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/7870403b0e539c0bf279cb2ed730ec97488b2591)
