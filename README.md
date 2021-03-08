@@ -171,3 +171,7 @@
 [Documentação sobre ctx (request/response)](https://strapi.io/documentation/developer-docs/latest/development/backend-customization.html#requests-responses)
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/4587982c9864cf18d03c550b6a940354798a5b32)
+
+### 124. Conceitos dos services
+
+[Documentação sobre Services](https://strapi.io/documentation/developer-docs/latest/development/backend-customization.html#services)
