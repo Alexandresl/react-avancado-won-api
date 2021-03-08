@@ -149,3 +149,9 @@
 [Meu PR no projeto original](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/pull/3)
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/01d52ac27b2aa7aef94a9ff008bf87cce1375ad2)
+
+## Seção 12: Módulo 2: Criando Scrapper de dados para popular a API da Won Games
+
+### 120. Apresentando o scrapper
+
+[Site oficial da Gog.com](https://www.gog.com/)
