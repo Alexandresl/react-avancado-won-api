@@ -155,3 +155,9 @@
 ### 120. Apresentando o scrapper
 
 [Site oficial da Gog.com](https://www.gog.com/)
+
+### 121. Conceitos de rotas e controllers
+
+[Documentação sobre controllers](https://strapi.io/documentation/developer-docs/latest/development/backend-customization.html#controllers)
+
+[Documentação sobre rotas](https://strapi.io/documentation/developer-docs/latest/development/backend-customization.html#routing)
