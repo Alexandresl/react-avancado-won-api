@@ -175,3 +175,8 @@
 ### 124. Conceitos dos services
 
 [Documentação sobre Services](https://strapi.io/documentation/developer-docs/latest/development/backend-customization.html#services)
+
+### 125. Buscando dados com o service.find
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/a407ee6402b35715ee1e9ea115b83ece75b225be)
+
