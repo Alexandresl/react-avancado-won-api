@@ -180,3 +180,6 @@
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/a407ee6402b35715ee1e9ea115b83ece75b225be)
 
+### 126. Fazendo fetch nos dados da API da GoG
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/12ee46a34518810ccece414c6533afa98007151d)
