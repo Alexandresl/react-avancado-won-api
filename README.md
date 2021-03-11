@@ -183,3 +183,10 @@
 ### 126. Fazendo fetch nos dados da API da GoG
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/12ee46a34518810ccece414c6533afa98007151d)
+
+### 127. Fazendo scrapper dos dados de uma página com JSDOM
+
+[Site oficial do JSDOM](https://github.com/jsdom/jsdom)
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/b3e9c9c4aeee913d3e1544ce16c4ada3947c73f1)
+
