@@ -195,3 +195,8 @@
 [Código feito na aula](https://github.com/Won-Games/api/commit/f79e21be302fb31bdec3347594382e81ed49e1a3)
 
 * Pacote instalado para trabalhar com a criação dos slugs: ```yarn add slugify```
+
+### 129. Buscando dados já criados e evitando erros de duplicação
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/43ad00271f56196ba969b3106aa99141c03dabeb)
+
