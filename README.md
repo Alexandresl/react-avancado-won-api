@@ -190,3 +190,8 @@
 
 [Código feito na aula](https://github.com/Won-Games/api/commit/b3e9c9c4aeee913d3e1544ce16c4ada3947c73f1)
 
+### 128. Criando dados com service.create
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/f79e21be302fb31bdec3347594382e81ed49e1a3)
+
+* Pacote instalado para trabalhar com a criação dos slugs: ```yarn add slugify```
