@@ -202,6 +202,9 @@
 
 ### 130. Criando dados relacionais de Many to Many
 
-[Código da aula](https://github.com/Won-Games/api/commit/f3aed6f23184bb805f4f7206c70503a93b2860af)
+[Código feito na aula](https://github.com/Won-Games/api/commit/f3aed6f23184bb805f4f7206c70503a93b2860af)
 
+### 131. Criando a primeira estrutura dos jogos
+
+[Código feito na aula](https://github.com/Won-Games/api/commit/5c78c60fd9fc62f4fe92324766f92dcb89bb5bd0)
 
